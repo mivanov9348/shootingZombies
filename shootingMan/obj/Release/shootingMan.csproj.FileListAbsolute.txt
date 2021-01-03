@@ -1,0 +1,9 @@
+C:\Users\mivan\source\repos\shootingMan\shootingMan\bin\Release\shootingMan.exe.config
+C:\Users\mivan\source\repos\shootingMan\shootingMan\bin\Release\shootingMan.exe
+C:\Users\mivan\source\repos\shootingMan\shootingMan\bin\Release\shootingMan.pdb
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.Form1.resources
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.Properties.Resources.resources
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.csproj.GenerateResource.cache
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.csproj.CoreCompileInputs.cache
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.exe
+C:\Users\mivan\source\repos\shootingMan\shootingMan\obj\Release\shootingMan.pdb
